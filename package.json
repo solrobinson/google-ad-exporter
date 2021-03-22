@@ -1,0 +1,15 @@
+{
+  "name": "google-ad-extractor",
+  "version": "1.0.0",
+  "description": "Extracts information in order to import it into MS AD",
+  "main": "index.js",
+  "dependencies": {
+    "googleapis": "^67.1.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Soloman Robinson",
+  "license": "ISC"
+}
